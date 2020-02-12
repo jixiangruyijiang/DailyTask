@@ -2,5 +2,6 @@
 Task：
 1) 英语听力一篇，单词20个
 2) 复习：继承和多态
+3)  GitHub配置完成[extra 2hour]
 
 3 hours
